@@ -9,8 +9,7 @@ A simple full-stack web app built with **React** and **FastAPI** that lets users
 -  Ask natural questions in a text field
 -  Get answers instantly from Gemini LLM (Google Generative Language API)
 -  Fullstack: React frontend + FastAPI backend
--  CORS-enabled, environment variable-based API key handling
--  Easily extensible to add Q&A history, to-do list, or feedback tracking
+
 
 
 
